@@ -2,7 +2,7 @@
 
  I'm a product-minded frontend developer, and full-time adventure seeker. 
 
-🔭 I’m currently working with React, Typescript, Tailwind and Next.js
+🔭 I’m currently working with React, Typescript, Tailwind and Next.js 13
 
 👯 Always looking to collaborate on fun projects
 
