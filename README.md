@@ -2,9 +2,9 @@
 
  I'm a product-minded developer, and full-time adventure seeker. 
 
-🔭 I’m currently working with React, Typescript, Tailwind, Node.js and Next.js 13
+🔭 Working with React, Typescript, Tailwind, Node.js and Next.js 13
 
-👯 Always looking to collaborate on fun projects
+🌱 Currently exploring webGL and Three.js
 
 📫 Best to reach me on b.peric10@gmail.com
 
