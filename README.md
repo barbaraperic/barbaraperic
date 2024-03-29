@@ -2,7 +2,7 @@
 
  I'm a design engineer, and full-time adventure seeker
 
-🔭 Working with React, Typescript, Tailwind, Node.js and Next.js 13
+🔭 Working with React, Typescript, and Next.js 13
 
 🌱 Currently exploring webGL and Three.js
 
