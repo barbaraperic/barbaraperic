@@ -1,6 +1,6 @@
 ### Hi, I'm Barbara 👋
 
- I'm a design engineer, and full-time adventure seeker
+ I'm a product engineer, and full-time adventure seeker
 
 🔭 Working with React, Typescript, and Next.js 13
 
