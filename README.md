@@ -8,7 +8,7 @@
 
 📫 Best to reach me on b.peric10@gmail.com
 
-⚡ Fun fact: I have a deep passion for endurance sports, such as embarking on cycling journeys from Paris to London, conquering a 500km cycling expedition through Croatia, and most recently, completing a 5km open water swim competition.
+⚡ Fun fact: I'm all about endurance sports! Whether it's cycling from Paris to London, 500km ride through the landscapes of Croatia, or diving into open water swim competitions.
 
 
 Thanks for visiting and I'd love to connect!
