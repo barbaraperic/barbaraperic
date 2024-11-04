@@ -1,14 +1,10 @@
 ### Hi, I'm Barbara 👋
 
- I'm a product engineer, and full-time adventure seeker
+ I'm a product engineer
 
-🔭 Working with React, Typescript, and Next.js 13
-
-🌱 Currently exploring webGL and Three.js
+🔭 Working with React, Typescript, XState and Next.js 13
 
 📫 Best to reach me on b.peric10@gmail.com
-
-⚡ Fun fact: I'm all about endurance sports! Whether it's cycling from Paris to London, 500km ride through the landscapes of Croatia, or diving into open water swim competitions.
 
 
 Thanks for visiting and I'd love to connect!
