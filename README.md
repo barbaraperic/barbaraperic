@@ -4,10 +4,8 @@
 
 🔭 Working with React, Typescript, XState and Next.js 13
 
-📫 Best to reach me on b.peric10@gmail.com
+📫 b.peric10@gmail.com
 
-
-Thanks for visiting and I'd love to connect!
 <!--
 **barbaraperic/barbaraperic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
