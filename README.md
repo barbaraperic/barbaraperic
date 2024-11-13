@@ -2,7 +2,7 @@
 
  I'm a product engineer
 
-🔭 Working with React, Typescript, XState and Next.js 13
+🔭 React, Typescript, XState and Next.js 13
 
 📫 b.peric10@gmail.com
 
