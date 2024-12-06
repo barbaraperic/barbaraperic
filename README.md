@@ -1,7 +1,5 @@
 ### Hi, I'm Barbara 👋
 
- I'm a product engineer
-
 🔭 React, Typescript, XState and Next.js 13
 
 📫 b.peric10@gmail.com
