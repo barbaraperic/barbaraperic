@@ -1,6 +1,6 @@
 ### Hi, I'm Barbara 👋
 
-🔭 React, Typescript, XState and Next.js 13
+🔭 React, Next.js, Typescript, XState 
 
 📫 b.peric10@gmail.com
 
