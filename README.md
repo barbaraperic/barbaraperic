@@ -4,7 +4,7 @@ Currently exploring the local-first ethos.
 
 I also love to teach people how to code, particularly when it come to the weird parts of JavaScript.
 
-🔭 React, Next.js, Typescript, XState 
+👩‍🍳 React, Next.js, Typescript, XState 
 
 📫 b.peric10@gmail.com
 
