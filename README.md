@@ -1,6 +1,6 @@
 I am a product-minded developer who loves to explore ideas at the intersection of technology, creativity, and tools for thought.
 
-I love to think how people interact with and understand the systems around them and how that shapes behaviour. I believe that best tools are [malleable](https://www.inkandswitch.com/embark/) - they amplify thought and communication, and adapt to the user. Not the other way around.
+I love to think how people interact with and understand the systems around them. I believe that best tools are [malleable](https://www.inkandswitch.com/embark/) - they amplify thought and communication, and adapt to the user. Currently exploring the local-first ethos.
 
 I also love to teach people how to code, particularly when it come to the weird parts of JavaScript.
 
